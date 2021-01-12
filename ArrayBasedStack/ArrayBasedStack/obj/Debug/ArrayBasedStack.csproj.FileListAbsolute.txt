@@ -1,0 +1,12 @@
+c:\users\chase dickerson\documents\visual studio 2015\Projects\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.exe.config
+c:\users\chase dickerson\documents\visual studio 2015\Projects\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.csprojResolveAssemblyReference.cache
+c:\users\chase dickerson\documents\visual studio 2015\Projects\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.exe
+c:\users\chase dickerson\documents\visual studio 2015\Projects\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.pdb
+c:\users\chase dickerson\documents\visual studio 2015\Projects\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.exe
+c:\users\chase dickerson\documents\visual studio 2015\Projects\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.pdb
+C:\Users\Chase Dickerson\Documents\Visual Studio 2015\Projects\Data Structures\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.exe.config
+C:\Users\Chase Dickerson\Documents\Visual Studio 2015\Projects\Data Structures\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.exe
+C:\Users\Chase Dickerson\Documents\Visual Studio 2015\Projects\Data Structures\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.pdb
+C:\Users\Chase Dickerson\Documents\Visual Studio 2015\Projects\Data Structures\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.exe
+C:\Users\Chase Dickerson\Documents\Visual Studio 2015\Projects\Data Structures\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.pdb
+C:\Users\Chase Dickerson\Documents\Visual Studio 2015\Projects\Data Structures\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.csprojResolveAssemblyReference.cache
