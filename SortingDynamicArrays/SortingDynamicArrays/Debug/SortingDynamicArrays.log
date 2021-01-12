@@ -1,0 +1,3 @@
+﻿  SortingDynamicArrays.cpp
+c:\users\chase dickerson\source\repos\sortingdynamicarrays\sortingdynamicarrays\sortingdynamicarrays.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SortingDynamicArrays.vcxproj -> C:\Users\Chase Dickerson\source\repos\SortingDynamicArrays\Debug\SortingDynamicArrays.exe
